@@ -32,17 +32,17 @@ PyPDF2 / pypdf
 Library Installation:
 Installs all required packages including LangChain, OpenAI, and PDF libraries.
 
-Dataset Setup
+Dataset Setup:
 Downloads and extracts PDF files used to simulate a knowledge base.
 
-Document Chunking
+Document Chunking:
 Splits large PDF documents into manageable text chunks for effective retrieval.
 
-RAG Initialization
+RAG Initialization:
 Uses ChromaDB to store and retrieve embeddings, then combines this with an LLM to create a context-aware chatbot.
 
-Custom Response Function
+Custom Response Function:
 Generates answers based on retrieved text and user query.
 
-User Interface
+User Interface:
 Uses Gradio to launch a simple chatbot interface in the browser.
