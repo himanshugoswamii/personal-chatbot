@@ -4,21 +4,32 @@ This project demonstrates how to build an intelligent chatbot from scratch using
 
 🧠 Features
 📄 PDF document ingestion and chunking
+
 🔍 Contextual retrieval using vector stores (ChromaDB)
+
 💬 Natural language responses powered by OpenAI models
+
 🧱 LangChain integration for structured RAG pipeline
+
 🎛️ Interactive Gradio user interface
 
 🛠️ Tech Stack
+
 Python
+
 LangChain & langchain-community
+
 OpenAI API
+
 Gradio
+
 ChromaDB
+
 PyPDF2 / pypdf
 
 📚 What It Does
-Library Installation
+
+Library Installation:
 Installs all required packages including LangChain, OpenAI, and PDF libraries.
 
 Dataset Setup
